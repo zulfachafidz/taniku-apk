@@ -1,0 +1,44 @@
+<Login>:
+    MDFloatLayout:
+        md_bg_color: 1,1,1,1
+    MDIconButton:
+        icon: "arrow-left"
+        pos_hint: {'center_x': 0.02,'center_y': 0.9}
+        on_release:
+            root.manager.current = "welcome"
+    MDLabel:
+        text: "L O G I N"
+        font_size: "30sp"
+        halign: "center"
+        font_name: "Bpoppins"
+        pos_hint:{"center_y":0.5,"center_y":0.9}
+    Image:
+        source: "assets/images/images.png"
+        size_hint: .5, .5
+        pos_hint: {"center_x": 0.5,"center_y": 0.65}
+    MDTextFieldRound:
+        hint_text: "username"
+        icon_left: "account"
+        size_hint_x: None
+        width: 270
+        font_size: 20
+        pos_hint: {'center_x': 0.5,'center_y': 0.4}
+        color_active: [1,1,1,1]
+    MDTextFieldRound:
+        hint_text: "password"
+        icon_left: "key"
+        size_hint_x: None
+        width: 270
+        font_size: 20
+        pos_hint: {'center_x': 0.5,'center_y': 0.3}
+        color_active: [1,1,1,1]
+        password: True
+    MDFillRoundFlatButton:
+        text: "LOGIN"
+        font_name: "Bpoppins"
+        size_hint: .3, .08
+        pos_hint: {'center_x': 0.5,'center_y': 0.2}
+        on_release:
+            root.manager.current = "home_page"
+    
+        

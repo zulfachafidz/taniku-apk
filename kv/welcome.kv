@@ -1,0 +1,36 @@
+<Welcome>:
+    MDFloatLayout:
+        md_bg_color: [1,1,1,1]
+    Image:
+        source: "assets/images/tani.jpg"
+        size_hint: .7, .7
+        pos_hint: {"center_x": 0.5,"center_y": 0.72}
+    MDLabel:
+        text: "Welcome In Taniku"
+        font_size: "25sp"
+        halign: "center"
+        font_name: "Bpoppins"
+        pos_hint:{"center_y":0.45}
+    MDLabel:
+        text: "Silahkan anda login terlebih terlebih dahulu"
+        font_name: "Mpoppins"
+        font_size: "14sp"
+        halign:"center"
+        size_hint_x: .5
+        pos_hint: {'center_x': 0.5,'center_y': 0.37}
+        color: rgba(127,127,127,255)
+    MDFillRoundFlatButton:
+        text: "LOGIN"
+        font_name: "Bpoppins"
+        size_hint: .5, .08
+        pos_hint: {'center_x': 0.5,'center_y': 0.27}
+        on_release:
+            root.manager.current = "login"
+    MDRoundFlatButton:
+        text: "SIGNUP"
+        font_name: "Bpoppins"
+        size_hint: .5, .08
+        pos_hint: {'center_x': 0.5,'center_y': 0.17}
+        on_release:
+            root.manager.current = "signup"
+
