@@ -2,39 +2,39 @@
 
 ![Taniku App Logo](<https://github.com/zulfachafidz/taniku-apk/blob/main/assets/images/tani.jpg>)
 
-## Deskripsi
+## Description
 
-Taniku App adalah aplikasi media sosial yang dirancang khusus untuk para petani. Dibangun menggunakan Python dengan framework Kivy, aplikasi ini memberikan platform bagi petani untuk berbagi informasi tentang hasil panen, memasarkan produk pertanian, dan berinteraksi dengan sesama petani. Taniku App juga menyediakan fitur-fitur menarik seperti Marketplace, Premium (termasuk bootcamp pertanian dan acara-acara khusus), Chat, dan Reels.
+Taniku App is a social media application specially designed for farmers. Built using Python with the Kivy framework, this application provides a platform for farmers to share information about harvests, market agricultural products, and interact with fellow farmers. Taniku App also provides interesting features such as Marketplace, Premium (including agricultural bootcamps and special events), Chat, and Reels.
 
-## Fitur Utama
+## Main feature
 
-1. **Marketplace**: Tempat untuk memasarkan dan menjual hasil panen serta peralatan pertanian.
-2. **Premium**: Menyediakan akses ke konten eksklusif seperti bootcamp pertanian dan acara-acara khusus.
-3. **Chat**: Membuka ruang obrolan untuk berinteraksi dan berbagi pengetahuan antara petani.
-4. **Reels**: Fitur berbagi video singkat untuk menampilkan kehidupan sehari-hari di dunia pertanian.
+1. **Marketplace**: A place to market and sell crops and agricultural equipment.
+2. **Premium**: Provides access to exclusive content such as farming bootcamps and special events.
+3. **Chat**: Opens a chat room for interaction and knowledge sharing between farmers.
+4. **Reels**: Short video sharing feature to show daily life in the world of agriculture.
 
-## Persyaratan
+## Condition
 
 - Python 3.10.
 - Kivy Framework.
 - KivyMD Framework.
 - Watchdog.
 
-## Instalasi
+## Instalation
 
-1. Clone repositori ini:
+1. Clone this repository:
 
     ```bash
     git clone https://github.com/zulfachafidz/taniku-apk.git
     ```
 
-2. Masuk ke direktori proyek:
+2. Go to the project directory:
 
     ```bash
     cd taniku-apk
     ```
 
-3. Instal dependensi:
+3. Install dependencies:
 
     ```bash
     pip install kivy
@@ -43,20 +43,20 @@ Taniku App adalah aplikasi media sosial yang dirancang khusus untuk para petani.
     pip install watchdog
     ```
 
-## Penggunaan
+## Use
 
-1. Jalankan aplikasi:
+1. Run the application:
 
     ```bash
     python main.py
     ```
 
-2. Nikmati fitur-fitur Taniku App dan mulai berinteraksi dengan komunitas petani.
+2. Enjoy the features of the Taniku App and start interacting with the farming community.
+   
+## Contribution
 
-## Kontribusi
+If you would like to contribute to the development of Taniku App, please create a *fork* of this repository and submit a *pull request* with your changes.
 
-Jika Anda ingin berkontribusi pada pengembangan Taniku App, silakan buat *fork* dari repositori ini dan kirimkan *pull request* dengan perubahan Anda.
+## Licence
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+This project is licensed under [MIT License](LICENSE).
