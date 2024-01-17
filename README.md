@@ -1,11 +1,11 @@
-# Taniku App
+# Taniku Apk
 
 ![Taniku App Logo](<https://github.com/zulfachafidz/taniku-apk/blob/main/assets/images/tani.jpg>)
 
 
 ## Description
 
-Taniku App is a social media application specially designed for farmers. Built using Python with the Kivy framework, this application provides a platform for farmers to share information about harvests, market agricultural products, and interact with fellow farmers. Taniku App also provides interesting features such as Marketplace, Premium (including agricultural bootcamps and special events), Chat, and Reels.
+Taniku Apk is a social media application specially designed for farmers. Built using Python with the Kivy framework, this application provides a platform for farmers to share information about harvests, market agricultural products, and interact with fellow farmers. Taniku App also provides interesting features such as Marketplace, Premium (including agricultural bootcamps and special events), Chat, and Reels.
 
 
 ## Main feature
