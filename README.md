@@ -52,6 +52,9 @@ Taniku App is a social media application specially designed for farmers. Built u
     ```
 
 2. Enjoy the features of the Taniku App and start interacting with the farming community.
+
+## output
+![Taniku App Output](<https://www.instagram.com/reel/C2K1qJXvWM9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==>)
    
 ## Contribution
 
