@@ -1,6 +1,6 @@
 # Taniku App
 
-![Taniku App Logo](<link_to_logo_image>)
+![Taniku App Logo](<https://github.com/zulfachafidz/taniku-apk/blob/main/assets/images/tani.jpg>)
 
 ## Deskripsi
 
